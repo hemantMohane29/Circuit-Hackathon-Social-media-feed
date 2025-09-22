@@ -1,5 +1,5 @@
 # Circuit-Hackathon-Social-media-feed
-# 💬 Social Media Comment System (HTML, CSS & JavaScript)
+# 💬 Social Media Comment System (HTML , CSS & JAVA-SCRIPT )
 
 A **social media-style comment system** built using **HTML, CSS, and JavaScript**.  
 This project was developed as part of a **Circuit Hackathon**, showcasing interactive web development skills.
