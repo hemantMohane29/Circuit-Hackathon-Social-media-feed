@@ -36,6 +36,5 @@ This project can be used for:
 ---
 
 If you like this project, consider giving it a **"STAR"** and sharing it with others! ⭐
-
 ---
 
